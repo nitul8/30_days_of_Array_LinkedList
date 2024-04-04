@@ -6,3 +6,6 @@
 <br>
 <h2>Day 3:</h2>
 <h3>Sum of Adjecent is Even</h3>
+<br>
+<h2>Day 4:</h2>
+<h3>Odd even sequence</h3>
