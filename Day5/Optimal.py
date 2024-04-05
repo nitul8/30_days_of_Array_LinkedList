@@ -8,6 +8,3 @@ def profit(A):
         op = max(op,A[i]-minimum)
         
     return op
-    
-A=[1,2,3,2,5,3]
-print(profit(A))
