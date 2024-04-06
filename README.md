@@ -12,3 +12,6 @@
 <br>
 <h2>Day 5:</h2>
 <h3>Best time to Buy and Sell a Stock</h3>
+<br>
+<h2>Day 6:</h2>
+<h3>Kth row of Pascal Triangle</h3>
