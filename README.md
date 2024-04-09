@@ -15,3 +15,6 @@
 <br>
 <h2>Day 6:</h2>
 <h3>Kth row of Pascal Triangle</h3>
+<br>
+<h2>Day 9:</h2>
+<h3>Rain Water Trapped</h3>
