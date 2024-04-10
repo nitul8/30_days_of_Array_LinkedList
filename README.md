@@ -18,3 +18,6 @@
 <br>
 <h2>Day 9:</h2>
 <h3>Rain Water Trapped</h3>
+<br>
+<h2>Day 10:</h2>
+<h3>Merge intervals</h3>
